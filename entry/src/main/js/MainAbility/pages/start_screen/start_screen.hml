@@ -1,0 +1,10 @@
+<stack class="container">
+    <canvas ref="startCanvas" class="start-canvas"></canvas>
+
+    <div class="content">
+        <text class="title">CACTI HOP</text>
+        <text class="subtitle">TAP TO JUMP</text>
+
+        <input type="button" class="btn start-btn" value="START GAME" onclick="startGameScreen"/>
+    </div>
+</stack>

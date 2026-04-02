@@ -1,0 +1,13 @@
+.container {
+    width: 454px;
+    height: 454px;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-canvas {
+    width: 454px;
+    height: 454px;
+}

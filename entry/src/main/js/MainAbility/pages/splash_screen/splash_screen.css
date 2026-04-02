@@ -1,0 +1,44 @@
+.container {
+    width: 454px;
+    height: 454px;
+    background-color: #f7f7f7;
+}
+
+.splash-canvas {
+    width: 454px;
+    height: 454px;
+}
+
+.overlay-content {
+    flex-direction: column;
+    align-items: center;
+    width: 454px;
+    height: 454px;
+}
+
+.title {
+    font-size: 42px;
+    color: #333333;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.loading-text {
+    font-size: 20px;
+    color: #999999;
+    text-align: center;
+    margin-top: 150px;
+    animation-name: blink;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes blink {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0;
+    }
+}

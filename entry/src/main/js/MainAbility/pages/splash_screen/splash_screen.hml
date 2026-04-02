@@ -1,0 +1,8 @@
+<stack class="container">
+    <canvas ref="splashCanvas" class="splash-canvas"></canvas>
+
+    <div class="overlay-content">
+        <text class="title">CACTI HOP</text>
+        <text class="loading-text">LOADING...</text>
+    </div>
+</stack>
