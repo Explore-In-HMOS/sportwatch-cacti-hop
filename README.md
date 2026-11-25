@@ -24,7 +24,7 @@ This retro-style endless runner game allows users to control a pixelated dinosau
 # Tech Stack
 
 - **Languages**: HML, CSS, JS
-- **Frameworks**: HarmonyOS Lite Wearable API
+- **Frameworks**: HarmonyOS SportWatch API
 - **Tools**: DevEco Studio Version 6.0.1.251 (or compatible)
 - **Libraries**: @system.router
 
